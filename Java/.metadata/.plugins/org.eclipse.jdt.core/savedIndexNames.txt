@@ -1,0 +1,2 @@
+INDEX VERSION 1.132+C:\Users\Akshat Chandel\OneDrive\Desktop\Akshat\Chitkara\2nd Year\4th Sem\Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
